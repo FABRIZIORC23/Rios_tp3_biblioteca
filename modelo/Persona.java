@@ -2,10 +2,9 @@ package modelo;
 
 public class Persona{
          private String Nombre;
-         public void setTitulo(String nombre){
-                 yyyyyyy
+         publ
          }
          public String getNombre(){
-             yyyyyy
+           
          }
 }
